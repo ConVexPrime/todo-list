@@ -19,4 +19,5 @@ Todo's for the Todo List:
   <li>Redo it using React.</li>
   <li>Some CSS animations.</li>
   <li>Redo it in Flask and connect it to a database</li>
+  <li>The ability to add different kinds of todos.  (checklists, categories, etc.)</li>
 </div>
